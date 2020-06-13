@@ -1,3 +1,0 @@
-Some new feature in dev-kreken branch
-New feature in dev1 branch
-New feature in dev2 branch
