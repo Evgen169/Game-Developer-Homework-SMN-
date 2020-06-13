@@ -1,2 +1,2 @@
 # project
-first peoject
+first project
