@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\GeekBrains Homework\Homework_1.5\bin\Debug\Homework_1.5.exe.config
+C:\Users\User\source\repos\GeekBrains Homework\Homework_1.5\bin\Debug\Homework_1.5.exe
+C:\Users\User\source\repos\GeekBrains Homework\Homework_1.5\bin\Debug\Homework_1.5.pdb
+C:\Users\User\source\repos\GeekBrains Homework\Homework_1.5\obj\Debug\Homework_1.5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GeekBrains Homework\Homework_1.5\obj\Debug\Homework_1.5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GeekBrains Homework\Homework_1.5\obj\Debug\Homework_1.5.exe
+C:\Users\User\source\repos\GeekBrains Homework\Homework_1.5\obj\Debug\Homework_1.5.pdb
